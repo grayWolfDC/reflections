@@ -16,4 +16,9 @@ Describe the differences between forks, clones, and branches. When would you use
     working.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-	This allows syncing with the remote without an internet connection
+	This allows syncing with the remote without an internet connection. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Would be hard to synchronize changes, hard to try stuff independently from collaborators, hard 
+	to work from multiple computers; in fact nothing would be easier, unless I can afford to work with 
+	a single copy on a single computer.
